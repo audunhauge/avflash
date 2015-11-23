@@ -1,0 +1,9 @@
+[
+  {
+    "label": "Explanation text",
+    "name": "explain",
+    "type": "text",
+    "default": "Choose wordset to use",
+    "description": "The user must choose from a list of categories (cities,countries etc)"
+  }
+]
